@@ -8,7 +8,7 @@ public class conditional {
 
 		char ch;
 		try (Scanner sc = new Scanner(System.in)) {
-			System.out.println("Enter a character:");
+			System.out.println("Enter a characte here properly:");
 			ch=sc.next().charAt(0);
 		}
 		/*	if((ch=='a')||(ch=='A'))
